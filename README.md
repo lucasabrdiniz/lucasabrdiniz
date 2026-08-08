@@ -1,9 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-PhD student in Bioinformatics - University of São Paulo (USP)
-Molecular dynamics (GROMACS) · Docking · Structural visualization (ChimeraX/PyMOL)
-
-🔧 [porcupineX](https://github.com/lucasabrdiniz/porcupineX) — native mode-vector (porcupine) plots for ChimeraX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasabreudiniz)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5922-7087)
